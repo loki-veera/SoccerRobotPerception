@@ -1,4 +1,4 @@
-# SoccerRobotPerception- ![Report](https://github.com/lokeshveeramacheneni/SoccerRobotPerception/blob/main/Report.pdf)
+# SoccerRobotPerception- [[Paper](https://github.com/lokeshveeramacheneni/SoccerRobotPerception/blob/main/Report.pdf)]
 
 Detection of Goalpost, Ball, Robot and Segmentation of field and fieldlines with a two headed network.
 ![alt text](https://github.com/lokeshveeramacheneni/SoccerRobotPerception/blob/main/predictions.png)
