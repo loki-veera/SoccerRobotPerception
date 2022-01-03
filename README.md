@@ -1,2 +1,23 @@
 # SoccerRobotPerception
-Code for soccer robot perception
+Code for soccer robot perception (Detection and Segmentation)
+
+# Requirements
+1. PyTorch
+2. Numpy
+3. Matplotlib
+4. OpenCV
+5. Scikit-Image
+
+# Training
+
+To train the model, please run
+
+```
+$ python train.py --lr=<learning_rate> --epochs=<epochs> --blob_dir=<Detection images path> --seg_dir=<Segmentation images path>
+```
+
+# Visualization
+
+An additional visualizations.ipynb is added to perform the testing and visualize the results. Please run this file to see the visualizations
+
+# License
