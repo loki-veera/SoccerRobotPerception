@@ -1,5 +1,5 @@
-# SoccerRobotPerception
-Code for soccer robot perception (Detection and Segmentation)
+# SoccerRobotPerception 
+Detection of Goalpost, Ball, Robot and Segmentation of field and fieldlines with a two headed network.
 
 # Requirements
 1. PyTorch
