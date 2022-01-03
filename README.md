@@ -22,5 +22,3 @@ An additional visualizations.ipynb is added to perform the testing and visualize
 
 
 Our sincere thanks for Hafez Farazi from University of Bonn for his continous support and advice during this project.
-
-# License
