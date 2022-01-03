@@ -20,4 +20,7 @@ $ python train.py --lr=<learning_rate> --epochs=<epochs> --blob_dir=<Detection i
 
 An additional visualizations.ipynb is added to perform the testing and visualize the results. Please run this file to see the visualizations
 
+
+Our sincere thanks for Hafez Farazi from University of Bonn for his continous support and advice during this project.
+
 # License
